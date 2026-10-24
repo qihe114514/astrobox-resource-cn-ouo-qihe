@@ -33,84 +33,180 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmws541": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     },
     "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.ouo.qihe.release.1.0.0.rpk",
-      "versionCode": 19
+      "version": "1.1.0",
+      "file_name": "downloads/cn.ouo.qihe.release.1.1.0.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.设置页新增「横屏 / 竖屏」选项，默认横屏\n2.修复 手环 9 Pro 表情切换时出现白边、白角的问题。"
+        }
+      ]
     }
   },
   "ext": {
